@@ -1,0 +1,41 @@
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 16pt;
+}
+.container {
+	border: 2px solid black;
+	padding: 10px;
+	text-align: center;
+}
+
+#title {
+	margin: 25px;
+	text-align: center;
+}
+
+img {
+	display: flex;
+	width: 50%;
+}
+
+
+button {
+	background: grey;
+	font-size: 20pt;
+	float: right;
+	margin-right: 185px;
+	border-radius: 8px;
+	margin-top: 130px;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+}
+
